@@ -1,4 +1,4 @@
 import { writable } from 'svelte/store'
 
-export const url = writable('https://pugstagram.co')
+export const url = writable('pugstagram-julian.netlify.app')
 export const likeCount = writable(0)
